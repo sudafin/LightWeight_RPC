@@ -1,0 +1,4 @@
+netty:
+  rpc:
+    server:
+      port: 3663
